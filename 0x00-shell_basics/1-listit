@@ -1,2 +1,3 @@
-#bin/bash
-Is
+#!/bin/bash
+ls
+
